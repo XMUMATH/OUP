@@ -1,2 +1,2 @@
 # OUP
-inte@H_OUP
+intel@H_OUP
