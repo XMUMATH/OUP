@@ -1,7 +1,3 @@
-# Coder: Wenxin Xu
-# Github: https://github.com/wenxinxu/resnet_in_tensorflow
-# ==============================================================================
-
 from resnet_fcUP import *
 from datetime import datetime
 import time
